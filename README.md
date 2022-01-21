@@ -5,10 +5,10 @@ Bulk account-playlist updater for Napster.<br>
 
 [accounts.txt]
 ```
-user:pass<br>
-user pass<br>
-email:pass<br>
-email pass<br>
+user:pass
+user pass
+email:pass
+email pass
 ```
 
 [tracklist.txt]
